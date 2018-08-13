@@ -1,7 +1,6 @@
 #include "Application.h"
 
-// pelb
-// Helo2
+// NU HELLu
 
 //Include GLEW
 #include <GL/glew.h>
