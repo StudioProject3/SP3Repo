@@ -1,6 +1,6 @@
 #include "Application.h"
 
-// This is changes for theo1
+// This is changes for theo2
 
 //Include GLEW
 #include <GL/glew.h>
